@@ -5,14 +5,14 @@
         "title": "Configuration initiale de l'Eco-Device",
         "description": "D\u00e9finissez les param\u00e8tres de connexion ainsi que les entr\u00e9es utilis\u00e9es.",
         "data": {
-          "host": 192.168.1.250 ,
-          "port": 80,
+          "host": "192.168.1.250",
+          "port": "80",
           "username": "Nom d'utilisateur",
           "password": "Mot de passe",
-          "scan_interval": 5,
-          "t1_enabled": Compteur Maison ,
+          "scan_interval": "5",
+          "t1_enabled": "Compteur Maison",
           "t2_enabled": "T\u00e9l\u00e9info 2",
-          "c1_enabled": Compteur Recharge ,
+          "c1_enabled": "Compteur Recharge",
           "c2_enabled": "Compteur 2"
         }
       },
